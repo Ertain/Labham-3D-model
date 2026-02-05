@@ -2,3 +2,4 @@ This is a labham 3D model made for the fans of Eimi Isami. This is based on the 
 
 Modeler: Ertain
 License: CC-BY-SA 4.0
+Original content creator: Eimi Isami (https://www.youtube.com/@eimiisami)
