@@ -2,7 +2,7 @@ This is a labham 3D model made for the fans of Eimi Isami. This is based on the 
 
 ![Labham model in Blender](Screenshots/Labham_princp_BSDF.png)
 
-Modeler: Ertain
+Modeler: Ertain (jason.anderson@jasonsblog.place)
 
 License: CC-BY-SA 4.0
 
