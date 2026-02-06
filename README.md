@@ -6,4 +6,4 @@ Modeler: Ertain
 
 License: CC-BY-SA 4.0
 
-Original content creator: Eimi Isami (https://www.youtube.com/@eimiisami)
+Original content creators: Eimi Isami (https://www.youtube.com/@eimiisami) and Wei (@Shounen_w, the person who made the reference)
