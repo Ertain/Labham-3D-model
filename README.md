@@ -1,6 +1,8 @@
 This is a labham 3D model made for the fans of Eimi Isami. This is based on the official designs that Eimi Isami has released. This was created with Blender.
 
-![Labham model in Blender](Screenshots/Labham_princp_BSDF.png)
+![Labham model in Blender](Screenshots/Labham_view.png)
+![Labham model front view](Screenshots/Labham_front.png)
+![Labham model front view](Screenshots/Labham_back.png)
 
 Modeler: Ertain (jason.anderson@jasonsblog.place)
 
